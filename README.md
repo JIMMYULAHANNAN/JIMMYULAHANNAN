@@ -21,7 +21,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 |-------------|-----------------|
 | **[Denoising Image](https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/CNN%20Model%20Image%20denoising%20.ipynb)** | This project implements a convolutional autoencoder to denoise images by learning to reconstruct clean images from noisy inputs using deep learning. |
 | **[Plant Disease canopy](https://github.com/JIMMYULAHANNAN/plant_canopy/blob/main/README.md)** | This project develops a convolutional neural network (CNN) for multi-class image classification, incorporating preprocessing, data augmentation, and visualization for improved model performance and interpretability. |
-| **[Market Basket Analysis](https://github.com/)** | Conducted association rule mining in R to uncover product purchase patterns and optimize cross-selling strategies. |
+| **[Web Scraping](https://github.com/JIMMYULAHANNAN/Web_Scraping/blob/main/README.md)** | The project demonstrates web scraping using Python's requests and BeautifulSoup to extract authors, quotes, tags, and 2-star book titles from dynamically paginated websites. |
 | **[Financial Data Analysis](https://github.com/)** | Analyzed financial statements in Excel to assess company health and inform investment decisions. |
 | **[Survey Data Cleaning](https://github.com/)** | Utilized Python and MySQL to clean and preprocess large survey datasets, ensuring data quality for subsequent analysis. |
 | **[AB Testing for Marketing Campaigns](https://github.com/)** | Designed and analyzed A/B tests in R to evaluate the effectiveness of marketing strategies and improve conversion rates. |
