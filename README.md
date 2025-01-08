@@ -20,7 +20,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 | **Project** | **Description** |
 |-------------|-----------------|
 | **[Denoising Image](https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/CNN%20Model%20Image%20denoising%20.ipynb)** | This project implements a convolutional autoencoder to denoise images by learning to reconstruct clean images from noisy inputs using deep learning. |
-| **[Customer Churn Prediction](https://github.com/)** | Implemented a predictive model using Python to identify factors contributing to customer churn and forecast at-risk customers. |
+| **[Plant Disease canopy](https://github.com/JIMMYULAHANNAN/plant_canopy/blob/main/README.md)** | This project develops a convolutional neural network (CNN) for multi-class image classification, incorporating preprocessing, data augmentation, and visualization for improved model performance and interpretability. |
 | **[Market Basket Analysis](https://github.com/)** | Conducted association rule mining in R to uncover product purchase patterns and optimize cross-selling strategies. |
 | **[Financial Data Analysis](https://github.com/)** | Analyzed financial statements in Excel to assess company health and inform investment decisions. |
 | **[Survey Data Cleaning](https://github.com/)** | Utilized Python and MySQL to clean and preprocess large survey datasets, ensuring data quality for subsequent analysis. |
