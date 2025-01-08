@@ -19,7 +19,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| **[Denoising Image](https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/CNN%20Model%20Image%20denoising%20.ipynb)** | This project implements a convolutional autoencoder to denoise images by learning to reconstruct clean images from noisy inputs using deep learning. |
+| **[Denoising Image](https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/README.md)** | This project implements a convolutional autoencoder to denoise images by learning to reconstruct clean images from noisy inputs using deep learning. |
 | **[Plant Disease canopy](https://github.com/JIMMYULAHANNAN/plant_canopy/blob/main/README.md)** | This project develops a convolutional neural network (CNN) for multi-class image classification, incorporating preprocessing, data augmentation, and visualization for improved model performance and interpretability. |
 | **[Web Scraping](https://github.com/JIMMYULAHANNAN/Web_Scraping/blob/main/README.md)** | The project demonstrates web scraping using Python's requests and BeautifulSoup to extract authors, quotes, tags, and 2-star book titles from dynamically paginated websites. |
 | **[Netflix Dataset Analysis](https://github.com/JIMMYULAHANNAN/Netflix_dataset_Analysis/blob/main/README.md)** | Analyzing the Netflix dataset to uncover insights on duplicates, null values, top contributors, release trends, ratings, and content categories using pandas and data visualization techniques. |
