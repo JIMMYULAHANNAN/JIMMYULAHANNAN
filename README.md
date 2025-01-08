@@ -24,7 +24,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 | **[Web Scraping](https://github.com/JIMMYULAHANNAN/Web_Scraping/blob/main/README.md)** | The project demonstrates web scraping using Python's requests and BeautifulSoup to extract authors, quotes, tags, and 2-star book titles from dynamically paginated websites. |
 | **[Netflix Dataset Analysis](https://github.com/JIMMYULAHANNAN/Netflix_dataset_Analysis/blob/main/README.md)** | Analyzing the Netflix dataset to uncover insights on duplicates, null values, top contributors, release trends, ratings, and content categories using pandas and data visualization techniques. |
 | **[TIC TAC TOE](https://github.com/JIMMYULAHANNAN/TIC_TAC_TOE/blob/main/README.md)** |This code implements a simple console-based Tic Tac Toe game where two players take turns to place their markers ('X' or 'O') on a 3x3 grid, with win conditions, error handling for invalid moves, and the option to replay the game. |
-| **[AB Testing for Marketing Campaigns](https://github.com/)** | Designed and analyzed A/B tests in R to evaluate the effectiveness of marketing strategies and improve conversion rates. |
+| **[SQL Combined with Tableau](https://github.com/JIMMYULAHANNAN/SQL_combined_with_Tableau/blob/main/README.md)** | The provided SQL queries analyze employee data, focusing on gender breakdowns, salary comparisons, manager demographics, and customized salary ranges, with results visualized in Tableau. |
 | **[Supply Chain Optimization](https://github.com/)** | Applied statistical analysis and Excel modeling to enhance supply chain efficiency and reduce operational costs. |
 
 Feel free to explore these projects to see how I apply my skills to solve real-world data challenges. 
