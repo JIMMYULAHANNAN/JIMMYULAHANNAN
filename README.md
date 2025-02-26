@@ -9,7 +9,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   </div>
@@ -19,9 +19,9 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| **[Recurrent Neural Network](https://github.com/JIMMYULAHANNAN/Recurrent_Neural_Networks/blob/main/README.md)** |The SQL queries demonstrate various techniques like aggregation, subqueries, joins, triggers, stored procedures, and user-defined functions to manage and analyze employee data, including salary details, department assignments, and employee roles. |
+| **[Recurrent Neural Network](https://github.com/JIMMYULAHANNAN/Recurrent_Neural_Networks/blob/main/README.md)** |Utilizing Keras and RNN (LSTM), this project preprocesses time-series data, trains a deep learning model, and accurately forecasts future alcohol sales trends. |
 | **[Indian Population Forecast](https://github.com/JIMMYULAHANNAN/Indian_Population_Forecast/blob/main/README.md)** |Using Auto Regression and data visualization, this project preprocesses historical data, trains a predictive model, and forecasts India's future population trends with accuracy. |
-| **[Holt-Winter Forecasting Method](https://github.com/JIMMYULAHANNAN/Holt-Winters_Forecast_Method/blob/main/README.md)** |The SQL queries demonstrate various techniques like aggregation, subqueries, joins, triggers, stored procedures, and user-defined functions to manage and analyze employee data, including salary details, department assignments, and employee roles. |
+| **[Holt-Winter Forecasting Method](https://github.com/JIMMYULAHANNAN/Holt-Winters_Forecast_Method/blob/main/README.md)** |Leveraging the Holt-Winters exponential smoothing model, this project preprocesses time-series data, optimizes trend and seasonality components, and forecasts future airline passenger demand with precision. |
 | **[Denoising Image](https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/README.md)** | This project implements a convolutional autoencoder to denoise images by learning to reconstruct clean images from noisy inputs using deep learning. |
 | **[Plant Disease canopy](https://github.com/JIMMYULAHANNAN/plant_canopy/blob/main/README.md)** | This project develops a convolutional neural network (CNN) for multi-class image classification, incorporating preprocessing, data augmentation, and visualization for improved model performance and interpretability. |
 | **[Web Scraping](https://github.com/JIMMYULAHANNAN/Web_Scraping/blob/main/README.md)** | The project demonstrates web scraping using Python's requests and BeautifulSoup to extract authors, quotes, tags, and 2-star book titles from dynamically paginated websites. |
