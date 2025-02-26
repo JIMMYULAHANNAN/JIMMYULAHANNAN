@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visualization, statistical analysis, and database management. I specialize in transforming complex datasets into actionable insights using tools such as Tableau, Python, R, MySQL, and Excel. My passion lies in leveraging data to drive informed decision-making and optimize business performance.
+I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visualization, statistical analysis, and database management. I specialize in transforming complex datasets into actionable insights using tools such as Tableau, Python, Power BI, MySQL, and Excel. My passion lies in leveraging data to drive informed decision-making and optimize business performance.
 
 **Knowledge & Skills**
 
