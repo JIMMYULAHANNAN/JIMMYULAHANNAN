@@ -19,7 +19,7 @@ I'm **Jimmy Ulahannan**, a Data Analyst with a strong background in data visuali
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| **[Injury Prediction](https://github.com/JIMMYULAHANNAN/Recurrent_Neural_Networks/blob/main/README.md)** |A machine learning-based web app that predicts athlete injury risk using XGBoost and Streamlit. |
+| **[Injury Prediction](https://github.com/JIMMYULAHANNAN/Injury_Prediction)** |A machine learning-based web app that predicts athlete injury risk using XGBoost and Streamlit. |
 | **[Recurrent Neural Network](https://github.com/JIMMYULAHANNAN/Recurrent_Neural_Networks/blob/main/README.md)** |Utilizing Keras and RNN (LSTM), this project preprocesses time-series data, trains a deep learning model, and accurately forecasts future alcohol sales trends. |
 | **[Indian Population Forecast](https://github.com/JIMMYULAHANNAN/Indian_Population_Forecast/blob/main/README.md)** |Using Auto Regression and data visualization, this project preprocesses historical data, trains a predictive model, and forecasts India's future population trends with accuracy. |
 | **[Holt-Winter Forecasting Method](https://github.com/JIMMYULAHANNAN/Holt-Winters_Forecast_Method/blob/main/README.md)** |Leveraging the Holt-Winters exponential smoothing model, this project preprocesses time-series data, optimizes trend and seasonality components, and forecasts future airline passenger demand with precision. |
